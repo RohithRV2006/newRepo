@@ -1,0 +1,1 @@
+This is a repository made to learn Git and GitHub commands
